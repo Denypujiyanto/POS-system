@@ -18,8 +18,7 @@
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.0",
         "nesbot/carbon": "^2.32",
-        "ext-gd":" *",
-        "gd": "*"
+        "ext-gd":" *"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
